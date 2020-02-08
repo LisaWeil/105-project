@@ -14,3 +14,13 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+
+.robot {
+	display: block;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+span {
+	color: red;
+}
